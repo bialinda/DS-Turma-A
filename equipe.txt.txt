@@ -1,0 +1,11 @@
+<html>
+<head>
+	<title>Equipe</title>
+</head>
+<body>
+	<h1>Equipe</h1>
+
+	<p>Ana Beatriz;</p>
+	<p>Bruno de Oliveira</p>
+</body>
+</html>
