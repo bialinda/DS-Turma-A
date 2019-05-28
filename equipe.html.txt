@@ -3,9 +3,9 @@
 	<title>Trabalho</title>
 </head>
 <body>
-	<h1>TRABALHO EM EQUIPE 01</h1>
+	<h1>ATIVIDADE AVALIATIVA</h>
 
-	<p>Atividade avaliativa da disciplina TÈcnicas de ProgramaÁ„o, do curso TÈcnico em Desenvolvimento de sistemas da Etec Comendador Jo„o Rays </p>
+	<p>Atividade avaliativa da disciplina T√©cnicas de Programa√ß√£o, do curso T√©cnico em Desenvolvimento de sistemas da Etec Comendador Jo√£o Rays </p>
 
 	<ul class="illuminations">
 		<li>Ana Beatriz Juvencio</li>
